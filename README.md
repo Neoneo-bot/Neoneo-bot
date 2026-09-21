@@ -1,64 +1,60 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Neoneo</h1>
 
-<!-- Header Banner / Aesthetic Image -->
-<img src="https://i.pinimg.com/1200x/65/a1/c8/65a1c8f5a9561a78ac2f15eb2fa4772f.jpg" width="100%" alt="Theia Cosmic Dark Banner" style="border-radius: 10px;">
-
-<br><br>
-
-<h1><b>THEIA</b></h1>
-<p><em>Architecting code in the dark side of the moon.</em></p>
-<p><code>(( Status: Executing... || 999 errors, 999 warnings ))</code></p>
-
-<br>
-
-<p>
-╰┈➤ &nbsp; <b>theia</b> &nbsp; ✦ &nbsp; <b>he / him</b> &nbsp; ✦ &nbsp; <b>utc+7</b> &nbsp; ╰┈➤
+<p align="center">
+  <b>Software Developer & Tech Enthusiast</b>
 </p>
 
-<hr style="border: 1px dashed #333; width: 85%;">
-
-</div>
-
-<br>
-
-
-## <b>TECH STACK & TOOLS</b>
-
-<div align="center">
-
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` `JavaScript` `C++` `SQL` `HTML/CSS` |
-| **Databases** | `MySQL` `PostgreSQL` `MongoDB` |
-| **DevOps & OS** | `Linux (Ubuntu)` `Docker` `Git` `Bash` |
-| **Design & Media** | `Figma` `CapCut` `Photoshop` |
-
-</div>
-
-<br>
-
-## <b>CONNECT WITH ME</b>
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theia.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theia)
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/theia)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-
-</div>
-
-<br>
-
-
-<!-- Visitor Counter Badge -->
-![Visitor Counter](https://profile-counter.glitch.me/theia/count.svg)
-
-</div>
-
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-100000?style=for-the-badge&logo=open-source-initiative&logoColor=white" />
+</p>
 
 ---
-<div align="center">
-<sub>✦ Desig with Dark Cosmic Aesthetic for @theia ✦</sub>
-</div>
+
+### 🌐 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/USERNAME_KAMU" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/USERNAME_KAMU" target="_blank"><img src="https://img.shields.io/badge/X%20(TWITTER)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://instagram.com/USERNAME_KAMU" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://discord.gg/LINK_DISCORD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:EMAIL_KAMU@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 💻 Tech Stack
+<!-- Icon Grid -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,c,vscode,figma,git,github,mongodb" />
+  </a>
+</p>
+
+<!-- Technology Badges -->
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neoneo-bot&theme=dark&hide_border=false" alt="Neoneo-bot Streak" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neoneo-bot&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🪐 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
