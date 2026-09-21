@@ -40,21 +40,15 @@
 
 ---
 
-### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neoneo-bot&theme=dark&hide_border=false" alt="Neoneo-bot Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neoneo-bot&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
-### 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Neoneo-bot&theme=react-dark" alt="Contribution Graph" />
-</p>
-
----
 
 ### 🪐 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Talk+is+cheap.+Show+me+the+code.;Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.;First%2C+solve+the+problem.+Then%2C+write+the+code.;Keep+learning+and+stay+awesome!" alt="Typing SVG" />
+  </a>
 </p>
